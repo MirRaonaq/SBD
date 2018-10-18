@@ -1,3 +1,3 @@
 # Sentence Boundary Detection (SBD)
 
-## SBD Without Punctuational Marks
+## SBD Without Punctuation Marks
