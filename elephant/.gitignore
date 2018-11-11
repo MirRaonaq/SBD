@@ -1,0 +1,5 @@
+*.pyc
+/out
+/elephantc
+/elephant
+/elephant-train
